@@ -1,3 +1,9 @@
 .App {
   text-align: center;
 }
+
+#navbarTitle {
+  font-family: "Chakra Petch", sans-serif;
+  color: black;
+  font-size: 25px;
+}
